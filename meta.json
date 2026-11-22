@@ -1,0 +1,44 @@
+{
+  "features": [
+    "Submission.Actions",
+    "Quiz.Actions",
+    "Forum.Actions",
+    "Create.Actions",
+    "Read.Actions",
+    "Update.Actions",
+    "Delete.Actions",
+    "Days.Logged.In"
+  ],
+  "cv_accuracy": 0.7690083217753121,
+  "holdout_accuracy": 0.7738264580369844,
+  "importances": {
+    "Submission.Actions": 0.09288245011360863,
+    "Quiz.Actions": 0.15167875584807797,
+    "Forum.Actions": 0.10425388303803369,
+    "Create.Actions": 0.11523118968149991,
+    "Read.Actions": 0.2562582363658162,
+    "Update.Actions": 0.08109441833890672,
+    "Delete.Actions": 0.011487886853851678,
+    "Days.Logged.In": 0.18711317976020517
+  },
+  "medians": {
+    "Submission.Actions": 3.0,
+    "Quiz.Actions": 0.0,
+    "Forum.Actions": 0.0,
+    "Create.Actions": 7.0,
+    "Read.Actions": 131.0,
+    "Update.Actions": 3.0,
+    "Delete.Actions": 0.0,
+    "Days.Logged.In": 14.0
+  },
+  "max": {
+    "Submission.Actions": 42.0,
+    "Quiz.Actions": 445.0,
+    "Forum.Actions": 60.98999999999978,
+    "Create.Actions": 56.0,
+    "Read.Actions": 1655.0,
+    "Update.Actions": 217.98999999999978,
+    "Delete.Actions": 1.0,
+    "Days.Logged.In": 36.0
+  }
+}
